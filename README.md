@@ -1,1 +1,11 @@
-"# GroceryWise" 
+Title: GroceryWise: Grocery List Helper
+
+Description: GroceryWise is a straightforward yet effective mobile application meant to make grocery shopping easier. Through the use of rudimentary AI, the app makes suggestions for products you might need based on your past meal preferences and shopping behavior. GroceryWise guarantees you won't ever forget a crucial item again, whether you're stockpiling necessities or organizing meals.
+
+Feature:  Create and Manage Grocery Lists – GroceryWise makes it simple to create and manage grocery lists. You can organize items by category, such as produce, dairy, and pantry, and update your list from any location. The app's user-friendly design allows you to quickly add and remove items, keeping your list up to date and relevant.  AI-Powered Suggestions – The app uses your previous shopping habits and meal plans to recommend items you might need. For example, if you frequently purchase specific ingredients or have seasonal preferences, the AI will make personalized recommendations to ensure you're always prepared. This feature saves you time and alleviates the stress of last-minute shopping.  Offline Mode - Even when you're not online, you can access your AI-generated recommendations and grocery lists. With the help of the app's cached AI data, which it generates from your prior behavior, you can still effectively manage your shopping when offline.
+
+Objectives:  Streamline Grocery Shopping – Simplify the process of making and maintaining grocery lists by offering a user-friendly interface and clever recommendations.  Reduce Forgotten Items – By using AI, users can be reminded of things they regularly forget or might require based on their past behavior.  Improve User Experience – Provide a seamless and user-friendly experience, making grocery shopping more efficient and less stressful.
+
+Conclusion: To summarize, GroceryWise is here to improve your grocery shopping experience through the use of basic AI and a user-friendly interface. The app provides a complete solution for all of your grocery needs by simplifying list management, making intelligent suggestions, and ensuring functionality even when offline.
+
+My Role in this project: Back-end (SQLite)
